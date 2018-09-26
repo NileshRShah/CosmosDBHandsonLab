@@ -3,6 +3,7 @@
 # Set variables for the new account, database, and collection
 resourceGroupName='myResourceGroup'
 location='eastus'
+# Make sure to use a unique name below. It is possible someone has already used this name.
 name='tweet'
 databaseName='cosmoTweetsDb'
 collectionName='tweets'
